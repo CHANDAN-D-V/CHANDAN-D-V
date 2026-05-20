@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋 Hi , I am CHANDAN D V .
+This is a Repository of my Data Analytics Projects using SQL , Power BI , Tableau and Excel mixed in.
 <!--
 **CHANDAN-D-V/CHANDAN-D-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
